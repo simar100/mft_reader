@@ -18,7 +18,7 @@ zig fetch --save git+https://github.com/forentfraps/mft_reader
 Add to your `build.zig`:
 
 ```zig
-const mft_reader = b.dependency("ntfs-mft-reader", .{
+const mft_reader = b.dependency("mft_reader", .{
     .target = target,
     .optimize = optimize,
 });
